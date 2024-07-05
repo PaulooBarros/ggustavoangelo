@@ -18,7 +18,6 @@ Olá! Eu sou Paulo Gustavo Angelo de Barros, um estudante de Ciência da Computa
 - 📸 [Instagram](https://www.instagram.com/ggustavoangelo)
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulo-gustavo-angelo-de-barros-149146235)
 - 📧 [Email](mailto:paulogustavobarros90@gmail.com)
-
+- Discord: paulo_gustavo
 ---
 
-Obrigado por visitar meu perfil! 😊
