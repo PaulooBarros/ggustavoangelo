@@ -10,7 +10,7 @@ Olá! Eu sou Paulo Gustavo Angelo de Barros, um estudante de Ciência da Computa
 - 🐍 **Linguagens:** Python e Java.
 - 📊 **Ciência de Dados:** Sempre explorando novas técnicas e ferramentas.
 - 🧪 **Qualidade de Software (QA):** Aprendendo e aprimorando minhas habilidades na área.
-- 📚 **Aprendizado Atual:** Pandas.
+- 📚 **Aprendizado Atual:** Cypress.
 
 ## Contato
 
